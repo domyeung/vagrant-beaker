@@ -16,7 +16,7 @@ There is a gem available in the pkg/ directory for internal consumption.
 
 ```
 
-Then either update either update the username and password sections in the Vagrantfile or export them as environment variables like:
+Then either update the username and password sections in the Vagrantfile or export them as environment variables like:
 
 ```bash
 
